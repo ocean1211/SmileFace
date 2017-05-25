@@ -1,11 +1,9 @@
 # SmileFace
 Paper executável desenvolvido na disciplina IA369Z - Reprodutibilidade em Pesquisa Computacional - FEEC - Unicamp
 
-O objetivo deste trabalho é desenvolver um classificador de imagens que identifique sorrisos e não sorrisos a partir de um banco de imagens 2D.
+In this article, we present a comparison between two Machine Learning techniques for smiles classifiers: The K-Nearest Neighbors and Support Vector Machine.The classifiers will be integrated into JoyFace to stop the wheelchair movements.
+The JoyFace is a system based on Computer Vision developed to control a wheelchair through facial expressions. This Human Machine Interface considers the displacement of the user’s face relative to a reference region.The face is identified by a regular webcam and verify the face positions. Each position is associated with a movement control of the wheelchair.
 
-/data - Repositório de dados utilizado.
-<br>/deliver - Armazena o notebook em desenvolvimento
-<br>/dev - Armazena os notebooks desenvolvidos
-<br>/figures - Figuras e infográficos gerados no paper
+https://www.youtube.com/watch?v=9pUiHnGc9co
 
 
