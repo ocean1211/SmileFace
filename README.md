@@ -43,4 +43,11 @@ Após o download abrir o terminal, utilizar o comando bash Anaconda2-4.4.0-Linux
 <br><b>OpenCV:</b> Foi utilizada a versão 3.1.0.3 do openCV compatível com python 2.7 que pode ser encontrada no link: https://pypi.python.org/pypi/opencv-python/3.1.0.3 ou através do comando pip install opencv-python 
 <br><b>V-REP:</b> Software de Simulação utilizado. Pode ser baixado no link http://www.coppeliarobotics.com/downloads.html utilizando a versão EDU. Os arquivos vrep.py, vrepConst.py devem estar na mesma pasta do jupyter notebook a ser rodado, mas se encontram disponíveis no pacote.
 
+# Outra Alternativa: Imagem Docker
+
+Baixar o Docker e utilizar a imagem disponível em: https://hub.docker.com/r/patavee/scipy-matplotlib-opencv/
+<br>Executando o comando docker pull patavee/scipy-matplotlib-opencv
+<br>Verificar se a imagem está disponível utilizando o comando docker images
+<br>Para rodar a imagem, utilize o comando:	docker run -d -p 8888:8888 scipy-matplotlib-opencv
+
 
