@@ -25,6 +25,7 @@ Feito isto, o usuário deverá abrir o jupyter notebook com o paper executável 
 <b>Conda:</b>  Foi utilizada a versão presente do Conda compatível com Python 2.7 que pode ser baixada através deste link https://conda.io/miniconda.html 
 <br><b>OpenCV:</b> Foi utilizada a versão 3.1.0.3 da biblioteca openCV compatível com Python 2.7 A biblioteca pode ser baixada através do link: https://pypi.python.org/pypi/opencv-python/3.1.0.3 (opencv_python-3.1.0.3-cp27-cp27mu-manylinux1_x86_64.whl (md5)) 
 <br>Abrir o prompt de comando do windows, utilizar o comando cd até chegar a pasta em que arquivo .whl se encontra, rodar o comando pip install opencv_python-3.1.0.3-cp27-cp27mu-manylinux1_x86_64.whl. 
+<br><b>Matplotlib</b> Foi utilizada a versão 2.0.2 da biblioteca, pode ser utilizando o comando conda install -c conda-forge matplotlib=2.0.2 para a instalação.
 <br><b>V-REP:</b> Software de Simulação utilizado. Um pacote para o Windows foi criado para facilitar a instalação das dependências do V-REP, disponível neste link: https://drive.google.com/open?id=0BzSRLfh3WveOMjMtd3NGb0ZNUUE. Caso utilize o pacote, os passos abaixos não necessitam ser seguidos.
 <br>Caso não utilize o pacote de instalação, utilize o link para download do V-Rep http://www.coppeliarobotics.com/downloads.html utilizando a versão EDU. Os arquivos remoteApi.dll, vrep.py, vrepConst.py devem estar na mesma pasta do jupyter notebook a ser rodado.
 
@@ -36,11 +37,13 @@ Após o download abrir o terminal, utilizar o comando bash Anaconda2-4.4.0-Linux
 <br>Cconda create --name my_env python=2.7 
 <br>Csource activate my_env 
 <br><b>OpenCV:</b> Foi utilizada a versão 3.1.0.3 do openCV compatível com python 2.7 que pode ser encontrada no link: https://pypi.python.org/pypi/opencv-python/3.1.0.3 
+<br><b>Matplotlib</b> Foi utilizada a versão 2.0.2 da biblioteca, pode ser utilizando o comando conda install -c conda-forge matplotlib=2.0.2 para a instalação.
 <br><b>V-REP:</b> Software de Simulação utilizado. Pode ser baixado no link http://www.coppeliarobotics.com/downloads.html utilizando a versão EDU. Os arquivos vrep.py, vrepConst.py devem estar na mesma pasta do jupyter notebook a ser rodado.
 
 # Mac OS
 <b>Conda:</b>  Utilizar a versão Anaconda compatível com Python 2.7, que pode ser encontrada no link https://www.continuum.io/downloads 
 <br><b>OpenCV:</b> Foi utilizada a versão 3.1.0.3 do openCV compatível com python 2.7 que pode ser encontrada no link: https://pypi.python.org/pypi/opencv-python/3.1.0.3 ou através do comando pip install opencv-python 
+<br><b>Matplotlib</b> Foi utilizada a versão 2.0.2 da biblioteca, pode ser utilizando o comando conda install -c conda-forge matplotlib=2.0.2 para a instalação.
 <br><b>V-REP:</b> Software de Simulação utilizado. Pode ser baixado no link http://www.coppeliarobotics.com/downloads.html utilizando a versão EDU. Os arquivos vrep.py, vrepConst.py devem estar na mesma pasta do jupyter notebook a ser rodado, mas se encontram disponíveis no pacote.
 
 # Outra Alternativa: Imagem Docker
