@@ -20,7 +20,7 @@ Abaixo temos as orientações para a montagem de ambiente em cada sistema operac
 Feito isto, o usuário deverá abrir o jupyter notebook com o paper executável e utilizar a opção Cell > Run All para que o código seja executado por completo, após alguns segundos a seção anterior as References mostrará a webcam do usuário e estará pronta para controlar a cadeira de rodas da simulação V-Rep.
 É ideal que o usuário disponibilize metade da tela para a exibição do V-Rep e a outra metade para o jupyter notebook.
 
-# WINDOWS 10 - 64 BITS
+# WINDOWS
 
 <b>Conda:</b>  Foi utilizada a versão presente do Conda compatível com Python 2.7 que pode ser baixada através deste link https://conda.io/miniconda.html 
 <br><b>OpenCV:</b> Foi utilizada a versão 3.1.0.3 da biblioteca openCV compatível com Python 2.7 A biblioteca pode ser baixada através do link: https://pypi.python.org/pypi/opencv-python/3.1.0.3 (opencv_python-3.1.0.3-cp27-cp27mu-manylinux1_x86_64.whl (md5)) 
