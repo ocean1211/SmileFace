@@ -15,7 +15,9 @@ Como pode ser visto no vídeo disponível https://www.youtube.com/watch?v=uzecwO
 
 Para tanto o usuário deve possuir uma webcam ativa, a versão 2.7 do Python, a biblioteca OpenCV na versão 3.1.0 e o software de simulação V-Rep na versão Edu.
 
-Abaixo temos as orientações para a montagem de ambiente em cada sistema operacional. Após instalar o ambiente necessário, o usuário deve abrir o software V-Rep e clicar em File > Open Scene e indicar o arquivo LCA.ttt que foi disponibilizado no github e no pacote de instalação. Feito isto, o usuário deverá abrir o jupyter notebook com o paper executável e utilizar a opção Cell > Run All para que o código seja executado por completo, após alguns segundos a seção anterior as References mostrará a webcam do usuário e estará pronta para controlar a cadeira de rodas da simulação V-Rep.
+Abaixo temos as orientações para a montagem de ambiente em cada sistema operacional. Após instalar o ambiente necessário, o usuário deve abrir o software V-Rep e clicar em File > Open Scene e indicar o arquivo LCA.ttt que foi disponibilizado no github e no pacote de instalação. 
+
+Feito isto, o usuário deverá abrir o jupyter notebook com o paper executável e utilizar a opção Cell > Run All para que o código seja executado por completo, após alguns segundos a seção anterior as References mostrará a webcam do usuário e estará pronta para controlar a cadeira de rodas da simulação V-Rep.
 É ideal que o usuário disponibilize metade da tela para a exibição do V-Rep e a outra metade para o jupyter notebook.
 
 # WINDOWS 10 - 64 BITS
