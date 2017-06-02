@@ -50,4 +50,6 @@ Baixar o Docker e utilizar a imagem disponível em: https://hub.docker.com/r/pat
 <br>Verificar se a imagem está disponível utilizando o comando docker images
 <br>Para rodar a imagem, utilize o comando:	docker run -d -p 8888:8888 scipy-matplotlib-opencv
 
+Após subir a imagem docker, verifique seu sistema operacional e siga as intruções de instalação do software de simulação V-Rep
+
 
