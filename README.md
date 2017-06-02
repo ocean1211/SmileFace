@@ -27,7 +27,7 @@ Abrir o prompt de comando do windows, utilizar o comando cd até chegar a pasta 
 V-REP: Software de Simulação utilizado. Pode ser baixado no link http://www.coppeliarobotics.com/downloads.html utilizando a versão EDU. Os arquivos remoteApi.dll, vrep.py, vrepConst.py devem estar na mesma pasta do jupyter notebook a ser rodado, mas se encontram disponíveis no pacote.
 
 # Ubuntu
-Conda: Utilizar a versão Anaconda compatível com Python 2.7, que pode ser encontrada no link https://www.continuum.io/downloads 
+<b>Conda:</b> Utilizar a versão Anaconda compatível com Python 2.7, que pode ser encontrada no link https://www.continuum.io/downloads 
 Após o download abrir o terminal, utilizar o comando bash Anaconda2-4.4.0-Linux-x86_64.sh 
 Caso deseje, o usuário pode criar um enviroment para o paper executável utilizando os comandos: 
 source ~/.bashrc 
