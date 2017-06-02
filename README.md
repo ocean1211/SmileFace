@@ -13,7 +13,7 @@ See the PDF version of the Paper here: https://github.com/suzanasvm/SmileFace/bl
 A proposta deste paper executável é permitir que o usuário controle uma cadeira de rodas disponibilizada em um ambiente de simulação utilizando expressões faciais captadas pela webcam. 
 Como pode ser visto no vídeo disponível https://www.youtube.com/watch?v=uzecwOaiKik
 
-Para tanto o usuário deve possuir uma webcam ativa, a versão 2.7 do Python, a biblioteca OpenCV na versão 3.1.0 e o software de simulação V-Rep na versão Edu.
+Para tanto o usuário deve possuir uma webcam ativa, a versão 2.7 do Python, a biblioteca OpenCV na versão 3.1.0, a biblioteca Matplot na versão 2.0.2 e o software de simulação V-Rep na versão Edu.
 
 Abaixo temos as orientações para a montagem de ambiente em cada sistema operacional. Após instalar o ambiente necessário, o usuário deve abrir o software V-Rep e clicar em File > Open Scene e indicar o arquivo LCA.ttt que foi disponibilizado no github e no pacote de instalação. 
 
