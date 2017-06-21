@@ -38,9 +38,8 @@ Feito isto, o usuário deverá abrir o jupyter notebook com o paper executável 
 <br>A biblioteca pode ser baixada através do link: https://pypi.python.org/pypi/opencv-python/3.1.0.3 (opencv_python-3.1.0.3-cp27-cp27mu-manylinux1_x86_64.whl (md5)) 
 <br>Abrir o prompt de comando do windows, utilizar o comando cd até chegar a pasta em que arquivo .whl se encontra, rodar o comando pip install opencv_python-3.1.0.3-cp27-cp27mu-manylinux1_x86_64.whl. 
 <br><b>Matplotlib</b> Foi utilizada a versão 2.0.2 da biblioteca, utilize o comando: conda install -c conda-forge matplotlib=2.0.2 para a instalação.
-<br><b>V-REP:</b> Software de Simulação utilizado. Um pacote para o Windows foi criado para facilitar a instalação das dependências do V-REP, disponível neste link: https://drive.google.com/open?id=0BzSRLfh3WveOMjMtd3NGb0ZNUUE. Caso utilize o pacote, os passos abaixos não necessitam ser seguidos.
-<br>Caso não utilize o pacote de instalação, utilize o link para download do V-Rep http://www.coppeliarobotics.com/downloads.html utilizando a versão EDU. 
-<br>Acesse no repositório git a pasta deliver/VRep/Windows e copie os arquivos qwindows.dll e remoteApi.dll para a mesma pasta do arquivo JoyFace_ExecutablePaper.ipynb
+<br><b>V-REP:</b> Software de Simulação utilizado. Faça download do V-Rep http://www.coppeliarobotics.com/downloads.html utilizando a versão EDU. 
+<br>Acesse no repositório git a pasta deliver/VRep/Windows e acesse a pasta 32Bit ou 64Bit de acordo com as configurações da sua máquina e copie os arquivos qwindows.dll e remoteApi.dll para a mesma pasta do arquivo JoyFace_ExecutablePaper.ipynb
 
 # Ubuntu
 <b>Conda:</b> Utilizar a versão Anaconda compatível com Python 2.7, que pode ser encontrada no link https://www.continuum.io/downloads 
