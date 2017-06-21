@@ -61,13 +61,4 @@ copie o arquivo remoteApi.so e cole na mesma pasta do arquivo JoyFace_Executable
 <br><b>Matplotlib</b> Foi utilizada a versão 2.0.2 da biblioteca, pode ser utilizando o comando conda install -c conda-forge matplotlib=2.0.2 para a instalação.
 <br><b>V-REP:</b> Software de Simulação utilizado. Pode ser baixado no link http://www.coppeliarobotics.com/downloads.html utilizando a versão EDU. Os arquivos vrep.py, vrepConst.py devem estar na mesma pasta do jupyter notebook a ser rodado, mas se encontram disponíveis no pacote.
 
-# Outra Alternativa: Imagem Docker
-
-Baixar o Docker e utilizar a imagem disponível em: https://hub.docker.com/r/patavee/scipy-matplotlib-opencv/
-<br>Executando o comando docker pull patavee/scipy-matplotlib-opencv
-<br>Verificar se a imagem está disponível utilizando o comando docker images
-<br>Para rodar a imagem, utilize o comando:	docker run -d -p 8888:8888 scipy-matplotlib-opencv
-
-Após subir a imagem docker, verifique seu sistema operacional e siga as intruções de instalação do software de simulação V-Rep
-
 
