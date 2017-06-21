@@ -28,7 +28,7 @@ Feito isto, o usuário deverá abrir o jupyter notebook com o paper executável 
 
 # WINDOWS
 <br><b> Pacote de Instalação:</b>
-<br>Foi criado um pacote de instalação para o ambiente Linux com todas as dependências necessárias. 
+<br>Foi criado um pacote de instalação para o ambiente Windows com todas as dependências necessárias. 
 <br> Disponível no link: https://drive.google.com/open?id=0BzSRLfh3WveOMjMtd3NGb0ZNUUE
 <br> Baixe o pacote 
 
