@@ -51,7 +51,7 @@ Feito isto, o usuário deverá abrir o jupyter notebook com o paper executável 
 <br><b>Matplotlib</b> Foi utilizada a versão 2.0.2 da biblioteca, pode ser utilizando o comando conda install -c conda-forge matplotlib=2.0.2 para a instalação.
 <br><b>V-REP:</b> Software de Simulação utilizado. Pode ser baixado no link http://www.coppeliarobotics.com/downloads.html utilizando a versão EDU. 
 <br> Após o download do V-REP descompacte a pasta. Feito isso utilize o terminal do Ubuntu para navegar até a pasta descompactada, execute o comando ./vrep.sh para rodar o V-REP.
-<br>Acesse no repositório git a pasta deliver/VRep/Linux e acesse a pasta 32Bit ou 64Bit de acordo com as configurações da sua máquina
+<br>Acesse a pasta deliver/VRep/Linux e escolha a pasta 32Bit ou 64Bit de acordo com as configurações da sua máquina
 copie o arquivo remoteApi.so e cole na mesma pasta do arquivo JoyFace_ExecutablePaper.ipynb
 
 # Mac OS
@@ -59,7 +59,7 @@ copie o arquivo remoteApi.so e cole na mesma pasta do arquivo JoyFace_Executable
 <br><b>OpenCV:</b> Foi utilizada a versão 3.1.0.3 do OpenCV compatível com python 2.7 que pode ser encontrada no link: https://pypi.python.org/pypi/opencv-python/3.1.0.3 ou através do comando pip install opencv-python 
 <br><b>Matplotlib</b> Foi utilizada a versão 2.0.2 da biblioteca, pode ser utilizando o comando conda install -c conda-forge matplotlib=2.0.2
 <br><b>V-REP:</b> Software de Simulação utilizado. Pode ser baixado no link http://www.coppeliarobotics.com/downloads.html utilizando a versão EDU.
-<br>Acesse no repositório git a pasta deliver/VRep/MacOS e copie o arquivo remoteApi.dylib e cole na mesma pasta do arquivo JoyFace_ExecutablePaper.ipynb
+<br>Acesse a pasta deliver/VRep/MacOS e copie o arquivo remoteApi.dylib e cole na mesma pasta do arquivo JoyFace_ExecutablePaper.ipynb
 
 # EXECUTANDO O PAPER
 
