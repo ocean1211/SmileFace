@@ -43,7 +43,7 @@ Feito isto, o usuário deverá abrir o jupyter notebook com o paper executável 
 
 # Ubuntu
 <b>Conda:</b> Utilizar a versão Anaconda compatível com Python 2.7, que pode ser encontrada no link https://www.continuum.io/downloads 
-Após o download abrir o terminal, utilizar o comando bash Anaconda2-4.4.0-Linux-x86_64.sh 
+<br>Após o download abrir o terminal, utilizar o comando bash Anaconda2-4.4.0-Linux-x86_64.sh 
 <br>Caso deseje, o usuário pode criar um enviroment para o paper executável utilizando os comandos: 
 <br>conda create --name SEUNOMEDEAMBIENTE
 <br>Acesse o ambiente criado com o comando: conda activate SEUNOMEDEAMBIENTE 
