@@ -63,7 +63,7 @@ copie o arquivo remoteApi.so e cole na mesma pasta do arquivo JoyFace_Executable
 
 # EXECUTANDO O PAPER
 
-1. Abra o V-REP e utilize a simulação disponibilizada. No V-REP clicar em File > Open Scene e indicar o arquivo LCA.ttt que foi disponibilizado no github na pasta /deliver/VRep.
+1. Abra o V-REP e utilize a simulação disponibilizada. No V-REP clicar em File > Open Scene e indicar o arquivo LCA.ttt que foi disponibilizado na pasta /deliver/VRep.
 
 2. Inicie o jupyter através do comando: jupyter notebook. Indique a pasta /deliver e abra o arquivo JoyFace_ExecutablePaper.ipynb
 
