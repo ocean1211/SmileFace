@@ -57,8 +57,10 @@ copie o arquivo remoteApi.so e cole na mesma pasta do arquivo JoyFace_Executable
 
 # Mac OS
 <b>Conda:</b>  Utilizar a versão Anaconda compatível com Python 2.7, que pode ser encontrada no link https://www.continuum.io/downloads 
-<br><b>OpenCV:</b> Foi utilizada a versão 3.1.0.3 do openCV compatível com python 2.7 que pode ser encontrada no link: https://pypi.python.org/pypi/opencv-python/3.1.0.3 ou através do comando pip install opencv-python 
+<br><b>OpenCV:</b> Foi utilizada a versão 3.1.0.3 do OpenCV compatível com python 2.7 que pode ser encontrada no link: https://pypi.python.org/pypi/opencv-python/3.1.0.3 ou através do comando pip install opencv-python 
 <br><b>Matplotlib</b> Foi utilizada a versão 2.0.2 da biblioteca, pode ser utilizando o comando conda install -c conda-forge matplotlib=2.0.2 para a instalação.
-<br><b>V-REP:</b> Software de Simulação utilizado. Pode ser baixado no link http://www.coppeliarobotics.com/downloads.html utilizando a versão EDU. Os arquivos vrep.py, vrepConst.py devem estar na mesma pasta do jupyter notebook a ser rodado, mas se encontram disponíveis no pacote.
+<br><b>V-REP:</b> Software de Simulação utilizado. Pode ser baixado no link http://www.coppeliarobotics.com/downloads.html utilizando a versão EDU.
+<br>Acesse no repositório git a pasta deliver/VRep/MacOS e copie o arquivo remoteApi.so e cole na mesma pasta do arquivo JoyFace_ExecutablePaper.ipynb
+
 
 
