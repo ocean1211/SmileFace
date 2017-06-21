@@ -9,7 +9,7 @@ See the PDF version of the Paper here: https://github.com/suzanasvm/SmileFace/bl
 
 # Montagem de Ambiente
 A proposta deste paper executável é permitir que o usuário controle uma cadeira de rodas disponibilizada em um ambiente de simulação utilizando expressões faciais captadas pela webcam. 
-Como pode ser visto no vídeo disponível:<center> <a href="https://youtu.be/gwqNMYqb8f0" target="_blank"><img src="http://img.youtube.com/vi/gwqNMYqb8f0/0.jpg" 
+Como pode ser visto no vídeo disponível:<center> <a href="https://youtu.be/gwqNMYqb8f0" target="blank"><img src="http://img.youtube.com/vi/gwqNMYqb8f0/0.jpg" 
 alt="JoyFace" width="240" height="180" border="10" /></a></center>
 
 Primeiramente faça o download do repositório do projeto, utilize o comando: 
