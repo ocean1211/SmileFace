@@ -30,7 +30,7 @@ Feito isto, o usuário deverá abrir o jupyter notebook com o paper executável 
 <br><b> Pacote de Instalação:</b>
 <br>Foi criado um pacote de instalação para o ambiente Windows com todas as dependências necessárias. 
 <br> Disponível no link: https://drive.google.com/open?id=0BzSRLfh3WveOMjMtd3NGb0ZNUUE
-<br> Baixe o pacote 
+<br> Baixe o pacote de instalação e descompacte-o
 
 <br><b> Instalação Manual:</b>
 <b>Conda:</b>  Foi utilizada a versão presente do Conda compatível com Python 2.7 que pode ser baixada através deste link https://conda.io/miniconda.html 
