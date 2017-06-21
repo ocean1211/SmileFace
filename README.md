@@ -22,11 +22,6 @@ Para reproduzir este projeto você de possuir:
  - Biblioteca Matplot na versão 2.0.2 
  - Software de Simulação V-Rep na modalidade Edu.
 
-Abaixo temos as orientações para a montagem de ambiente em cada sistema operacional. Após instalar o ambiente necessário, o usuário deve abrir o software V-Rep e clicar em File > Open Scene e indicar o arquivo LCA.ttt que foi disponibilizado no github na pasta /deliver/VRep.
-
-Feito isto, o usuário deverá abrir o jupyter notebook com o paper executável e utilizar a opção Cell > Run All para que o código seja executado por completo, após alguns segundos observe ao fim da seção Anexes, o feedback da webcam em tempo real e você estará pronto para controlar com seu próprio rosto, a cadeira de rodas disponível na simulação do V-Rep.
-É ideal que o usuário disponibilize metade da tela para a exibição do V-Rep e a outra metade para o jupyter notebook.
-
 # WINDOWS
 <b> Pacote de Instalação:</b>
 <br>Foi criado um pacote de instalação para o ambiente Windows com todas as dependências necessárias. 
