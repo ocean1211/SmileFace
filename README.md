@@ -28,9 +28,15 @@ Feito isto, o usuário deverá abrir o jupyter notebook com o paper executável 
 É ideal que o usuário disponibilize metade da tela para a exibição do V-Rep e a outra metade para o jupyter notebook.
 
 # WINDOWS
+<br><br><b> Pacote de Instalação:</b>
+Foi criado um pacote de instalação para o ambiente Linux com todas as dependências necessárias. 
+<br> Disponível no link: https://drive.google.com/open?id=0BzSRLfh3WveOMjMtd3NGb0ZNUUE
+<br> Baixe o pacote 
 
+<br><br><b> Instalação Manual:</b>
 <b>Conda:</b>  Foi utilizada a versão presente do Conda compatível com Python 2.7 que pode ser baixada através deste link https://conda.io/miniconda.html 
-<br><b>OpenCV:</b> Foi utilizada a versão 3.1.0.3 da biblioteca openCV compatível com Python 2.7 A biblioteca pode ser baixada através do link: https://pypi.python.org/pypi/opencv-python/3.1.0.3 (opencv_python-3.1.0.3-cp27-cp27mu-manylinux1_x86_64.whl (md5)) 
+<br><b>OpenCV:</b> Foi utilizada a versão 3.1.0.3 da biblioteca openCV compatível com Python 2.7 
+<br>A biblioteca pode ser baixada através do link: https://pypi.python.org/pypi/opencv-python/3.1.0.3 (opencv_python-3.1.0.3-cp27-cp27mu-manylinux1_x86_64.whl (md5)) 
 <br>Abrir o prompt de comando do windows, utilizar o comando cd até chegar a pasta em que arquivo .whl se encontra, rodar o comando pip install opencv_python-3.1.0.3-cp27-cp27mu-manylinux1_x86_64.whl. 
 <br><b>Matplotlib</b> Foi utilizada a versão 2.0.2 da biblioteca, utilize o comando: conda install -c conda-forge matplotlib=2.0.2 para a instalação.
 <br><b>V-REP:</b> Software de Simulação utilizado. Um pacote para o Windows foi criado para facilitar a instalação das dependências do V-REP, disponível neste link: https://drive.google.com/open?id=0BzSRLfh3WveOMjMtd3NGb0ZNUUE. Caso utilize o pacote, os passos abaixos não necessitam ser seguidos.
