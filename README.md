@@ -57,9 +57,17 @@ copie o arquivo remoteApi.so e cole na mesma pasta do arquivo JoyFace_Executable
 # Mac OS
 <b>Conda:</b>  Utilizar a versão Anaconda compatível com Python 2.7, que pode ser encontrada no link https://www.continuum.io/downloads 
 <br><b>OpenCV:</b> Foi utilizada a versão 3.1.0.3 do OpenCV compatível com python 2.7 que pode ser encontrada no link: https://pypi.python.org/pypi/opencv-python/3.1.0.3 ou através do comando pip install opencv-python 
-<br><b>Matplotlib</b> Foi utilizada a versão 2.0.2 da biblioteca, pode ser utilizando o comando conda install -c conda-forge matplotlib=2.0.2 para a instalação.
+<br><b>Matplotlib</b> Foi utilizada a versão 2.0.2 da biblioteca, pode ser utilizando o comando conda install -c conda-forge matplotlib=2.0.2
 <br><b>V-REP:</b> Software de Simulação utilizado. Pode ser baixado no link http://www.coppeliarobotics.com/downloads.html utilizando a versão EDU.
-<br>Acesse no repositório git a pasta deliver/VRep/MacOS e copie o arquivo remoteApi.so e cole na mesma pasta do arquivo JoyFace_ExecutablePaper.ipynb
+<br>Acesse no repositório git a pasta deliver/VRep/MacOS e copie o arquivo remoteApi.dylib e cole na mesma pasta do arquivo JoyFace_ExecutablePaper.ipynb
 
+# EXECUTANDO O PAPER
 
+1. Abra o V-REP e utilize a simulação disponibilizada. No V-REP clicar em File > Open Scene e indicar o arquivo LCA.ttt que foi disponibilizado no github na pasta /deliver/VRep.
+
+2. Inicie o jupyter através do comando: jupyter notebook. Indique a pasta /deliver e abra o arquivo JoyFace_ExecutablePaper.ipynb
+
+3. No notebook do paper executável utilize a opção Cell > Run All para que o código seja executado por completo.
+
+4. Divida a tela do computador de tal forma que seja possível visualizar a simulação do V-Rep e o notebook do paper ao mesmo tempo. Observe na seção de anexos, o feedback da web cam e controle a cadeira de rodas disponível na simulação V-REP
 
