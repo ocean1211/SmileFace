@@ -13,7 +13,8 @@ See the PDF version of the Paper here: https://github.com/suzanasvm/SmileFace/bl
 A proposta deste paper executável é permitir que o usuário controle uma cadeira de rodas disponibilizada em um ambiente de simulação utilizando expressões faciais captadas pela webcam. 
 Como pode ser visto no vídeo disponível https://www.youtube.com/watch?v=uzecwOaiKik
 
-Primeiramente faça o download do repositório do projeto, utilize o comando: git clone https://github.com/suzanasvm/SmileFace
+Primeiramente faça o download do repositório do projeto, utilize o comando: 
+<br>git clone https://github.com/suzanasvm/SmileFace
 
 Para reproduzir este projeto você de possuir:
  - Uma webcam 
