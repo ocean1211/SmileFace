@@ -39,7 +39,7 @@ Feito isto, o usuário deverá abrir o jupyter notebook com o paper executável 
 <br>Abrir o prompt de comando do windows, utilizar o comando cd até chegar a pasta em que arquivo .whl se encontra, rodar o comando pip install opencv_python-3.1.0.3-cp27-cp27mu-manylinux1_x86_64.whl. 
 <br><b>Matplotlib</b> Foi utilizada a versão 2.0.2 da biblioteca, utilize o comando: conda install -c conda-forge matplotlib=2.0.2 para a instalação.
 <br><b>V-REP:</b> Software de Simulação utilizado. Faça download do V-Rep http://www.coppeliarobotics.com/downloads.html utilizando a versão EDU. 
-<br>Acesse no repositório git a pasta deliver/VRep/Windows e acesse a pasta 32Bit ou 64Bit de acordo com as configurações da sua máquina e copie os arquivos qwindows.dll e remoteApi.dll para a mesma pasta do arquivo JoyFace_ExecutablePaper.ipynb
+<br>Acesse a pasta deliver/VRep/Windows e ali escolha 32Bit ou 64Bit de acordo com as configurações da sua máquina e copie os arquivos qwindows.dll e remoteApi.dll para a mesma pasta do arquivo JoyFace_ExecutablePaper.ipynb
 
 # Ubuntu
 <b>Conda:</b> Utilizar a versão Anaconda compatível com Python 2.7, que pode ser encontrada no link https://www.continuum.io/downloads 
@@ -69,5 +69,5 @@ copie o arquivo remoteApi.so e cole na mesma pasta do arquivo JoyFace_Executable
 
 3. No notebook do paper executável utilize a opção Cell > Run All para que o código seja executado por completo.
 
-4. Divida a tela do computador de tal forma que seja possível visualizar a simulação do V-Rep e o notebook do paper ao mesmo tempo. Observe na seção de anexos, o feedback da web cam e controle a cadeira de rodas disponível na simulação V-REP
+4. Divida a tela do computador de tal forma que seja possível visualizar a simulação do V-Rep e o notebook do paper ao mesmo tempo. Observe na seção de anexos, o feedback da web cam e controle a cadeira de rodas disponível na simulação V-REP.
 
